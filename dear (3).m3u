@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 , T18
+https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
+#EXTINF:-1 , Gulli Girl
+http://62.89.220.15/streams/media/gulli-girl_720x576/index.m3u8
+#EXTINF:-1 , Play Crime
+https://playmedia-playcrime-goplay-dash.amagi.tv/master.mpd
+#EXTINF:-1 , ENT | MTV Classics
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/39804
+#EXTINF:-1 , RMC Sport 1
+http://45.147.99.48:8082/stream/rmc/rmc1/out/index.m3u8
+#EXTINF:-1 , MTV Germany - MTV Uncensored 2025-06-13
+https://archive.org/download/2025-06-13-mtv-uncensored-70_/2025-06-13%20-%20MTV%20Uncensored%2070.mp4
+#EXTINF:-1 , CNews
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
+#EXTINF:-1 , Pogo/Cartoon Network India
+http://163.61.227.29:8000/play/a00n/index.m3u8
+#EXTINF:-1 , Doh
+http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
+#EXTINF:-1 , Dv9jd
+http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
+#EXTINF:-1 , Sksko
+http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
+#EXTINF:-1 , Djojd9
+rtmp://mvtroblox.online/live/02f985e5-49f5-4113-8b18-bfdc6adeaaa0
+#EXTINF:-1 , Sony sports
+http://223.123.33.46:7000/play/a0ed/index.m3u8
+#EXTINF:-1 , Hosohe
+http://41.205.93.154/CSTAR/index.m3u8
+#EXTINF:-1 , Axn
+https://love.pifipa2974.workers.dev/lx-origin/hd-axnbkp_720/chunks.m3u8
+#EXTINF:-1 , Jpz
+http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
+#EXTINF:-1 , National geo wild india
+http://103.113.103.202:8001/play/a02s/index.m3u8
+#EXTINF:-1 , National geo india
+http://103.113.103.202:8001/play/a007/index.m3u8
+#EXTINF:-1 , Nickelodeon France
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+#EXTINF:-1 , Urban Mix
+https://cloud.tvomix.com/URBANMIX/index.m3u8
+#EXTINF:-1 , Zenith
+https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8
+#EXTINF:-1 , TF1
+http://ipro2.pro2-ott.com:8789/sN3u2rh/ja6pqG8/13847
+#EXTINF:-1 , Canal+ Grand Écran
+http://ipro2.pro2-ott.com:8789/sN3u2rh/ja6pqG8/156272
+#EXTINF:-1 , MTV HD
+http://202.70.146.135:8000/play/a06m/index.m3u8
+#EXTINF:-1 , FXX
+http://104.255.88.155/fxx/playlist.m3u8
+#EXTINF:-1 , Sonic Nickelodeon
+https://falconftp.noobmaster.xyz/SONIC/index.m3u8
+#EXTINF:-1 , SpongeBob Jelly...Jam Music Video
+https://archive.org/download/sponge-bob-jellyfish-jam-music-video/SpongeBob%20Jellyfish%20Jam%20Music%20Video.mp4
+#EXTINF:-1 , Boomerang 
+http://klaratv.com/play/live.php?mac=00:1A:79:B9:E4:8A&stream=177332&extension=ts&play_token=1RLcGCztIw
+#EXTINF:-1 , MTV Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
